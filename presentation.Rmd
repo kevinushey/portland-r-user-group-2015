@@ -11,7 +11,7 @@ output:
 
 > - Software engineer at RStudio; started about one year ago
 > - Completed an MSc. in Statistics at the [University of British Columbia](https://www.ubc.ca/), under the tutelage of [Jenny Bryan](http://www.stat.ubc.ca/~jenny/)
-> - Worked briefly in data analytics roles in labs in Vancouver, BC and at the Fred Hutchinson Cancer Research Center in Seattle (primarily with large genomic datasets)
+> - Worked briefly in data analytics roles in labs in Vancouver, BC and at the Fred Hutchinson Cancer Research Center in Seattle, WA  (primarily with large genomic datasets)
 > - Began programming with `R`; slowly drifted towards `C++` (through Rcpp); fiddled with other languages as well
 
 ## What I do at RStudio
@@ -38,7 +38,7 @@ With this release of RStudio, we've been very ambitious in terms of new features
 
 We had started to notice, at various R meetups, that almost everyone had a data viewer open in their IDE ...
 
-... even though it was a severely limited view (non-interactive, only 1000 rows).
+... even though it was a severely limited view (non-interactive, only 1000 rows, kind of ugly).
 
 With RStudio v0.99, we've completely overhauled the data viewer, and it is much more powerful than before. Let's give it a spin.
 
@@ -91,7 +91,7 @@ Let's see that in action as well.
 
 It's also worth saying -- we now have (far less sophisticated, but still helpful) autocompletion for other languages as well.
 
-So, if you need to dip into SQL, JavaScript, or Python, RStudio can still do a somewhat reasonable job of providing you with completion items.
+So, if you need to dip into SQL, JavaScript, Python, RStudio can still do a somewhat reasonable job of providing you with completion items.
 
 ## Diagnostics
 
@@ -136,6 +136,6 @@ We're getting close! There are a number of features we want to tackle for v1.0, 
 ## Thanks!
 
 - Follow me on [Twitter](https://twitter.com/kevin_ushey).
-- Join the [#rstats](https://twitter.com/kevin_ushey) discussions -- we're a friendly bunch.
+- Join the [#rstats](https://twitter.com/kevin_ushey) discussions -- we're a friendly bunch!
 - Follow RStudio developments on [our blog](http://blog.rstudio.org/).
 - Let us know if you have [feature requests](https://support.rstudio.com/hc/en-us) or [bug reports](https://support.rstudio.com/hc/en-us).
